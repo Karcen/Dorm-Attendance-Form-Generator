@@ -10,7 +10,7 @@ Each form corresponds to Week n and automatically includes confirmation entries 
 As these forms are designed for safety confirmation rather than incident reporting, there is no need to retroactively submit unresolved issues. This ensures temporal consistency and aligns with the university's safety documentation protocol.
 
 The project is open-source and available on GitHub:
-🔗 https://github.com/Karcen/SDUWH-Dorm-Attendance-Form-Generator
+🔗 [https://github.com/Karcen/SDUWH-Dorm-Attendance-Form-Generator](https://github.com/Karcen/SDUWH-Dormitory-Safety-and-Fire-Confirmation-Form-Generator)
 
 ## 📋 Features
 
